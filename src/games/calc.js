@@ -1,4 +1,4 @@
-import { playGame } from "../../index.js";
+import { playGame } from "../index.js";
 
 function gameLogic() {
     const num1 = Math.floor(Math.random() * 100) + 1;
