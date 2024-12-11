@@ -6,3 +6,9 @@
 <a href="https://asciinema.org/a/ddxx5Ke4L7AJAP2qc3VIEjWwq">Brain-even</a>
 
 <a href="https://asciinema.org/connect/a71e497d-b3ac-44d1-9b62-92751e6bcac3">Brain-gcd</a>
+
+<a href="https://asciinema.org/a/ZQInxrtvCnd7pQpdlcIp1e7JH">Brain-prime</a>
+
+<a href="https://asciinema.org/a/uq3PCB1WGaTcdU8nf4zhiONWb">Brain-progression</a>
+
+
